@@ -1,7 +1,10 @@
-1) Arduino MEGA 2560 Kit
-  1a) Breadboard
-  1b) Jumper Cables
-  1c) LCD Screen
-  1d) 4x4 Keypad 
-  1e)
-2) 
+## H2
+Arduino MEGA 2560 Kit
+### H3
+1) Breadboard 
+2) Jumper Wires (Female-to-Male & Breadoard)
+3) LCD Screen 16x2
+4) 4x4 Keypad 
+5) Rev3 Controller Board 
+6) 220 ohm resistor
+7) Potentiometer 10k
