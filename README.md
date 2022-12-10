@@ -9,7 +9,7 @@ The project is relating to security, utilizing the LCD display, battery, and key
 1) Breadboard 
 2) Jumper Wires (Female-to-Male & Breadoard)
 3) LCD Screen 16x2
-4) 4x4 Keypad 
+4) [4x4 Keypad | Listed in pack of 5](https://www.amazon.com/Membrane-Keyboard-Arduino-Microcontroller-WIshioT/dp/B07LCHW8T7?tag=namespacebran76-20)
 5) [Rev3 Controller Board](https://store-usa.arduino.cc/collections/boards/products/arduino-mega-2560-rev3)
 6) 220 ohm resistor
 7) Potentiometer 10k
