@@ -10,6 +10,6 @@ The project is relating to security, utilizing the LCD display, battery, and key
 2) Jumper Wires (Female-to-Male & Breadoard)
 3) LCD Screen 16x2
 4) 4x4 Keypad 
-5) [Rev3 Controller Board](url) https://store-usa.arduino.cc/collections/boards/products/arduino-mega-2560-rev3
+5) [Rev3 Controller Board]https://store-usa.arduino.cc/collections/boards/products/arduino-mega-2560-rev3(url) 
 6) 220 ohm resistor
 7) Potentiometer 10k
