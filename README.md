@@ -4,7 +4,7 @@ The project is relating to security, utilizing the LCD display, battery, and key
 
 <img width="610" alt="Arduino Flowchart" src="https://user-images.githubusercontent.com/117235861/202277052-0cbf8373-d4fc-443e-b3a5-5a0b39849a13.png">
 
-Arduino MEGA 2560 Kit Components:
+## Arduino MEGA 2560 Kit Components:
 
 1) Breadboard 
 2) Jumper Wires (Female-to-Male & Breadoard)
