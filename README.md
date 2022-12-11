@@ -20,5 +20,5 @@ Collectively at the price of $100.42
 
 ## Schematics
 
-<img width="610" alt="Keypad Schematic" src="https://github.com/cchave55/Arduino-Final-Project/files/10201377/keypad.pdf">
-<img width="610" alt="LCD Schematic" src="https://github.com/cchave55/Arduino-Final-Project/files/10201379/lcd.pdf">
+<img width="610" alt="Keypad Schematic" src="https://user-images.githubusercontent.com/117235861/206883929-269c9337-9c14-45fe-9401-0181663e4eb0.jpg">
+<img width="610" alt="LCD Schematic" src="https://user-images.githubusercontent.com/117235861/206883944-770098c2-720a-448c-ba33-50beb9050b00.jpg">
