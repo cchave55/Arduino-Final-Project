@@ -16,3 +16,9 @@ The project is relating to security, utilizing the LCD display, battery, and key
 8) [Potentiometer 10k](https://www.sparkfun.com/products/9939) ($1.05)
 
 Collectively at the price of $100.42
+
+
+## Schematics
+
+<img width="610" alt="Keypad Schematic" src="https://github.com/cchave55/Arduino-Final-Project/files/10201377/keypad.pdf">
+<img width="610" alt="LCD Schematic" src="https://github.com/cchave55/Arduino-Final-Project/files/10201379/lcd.pdf">
