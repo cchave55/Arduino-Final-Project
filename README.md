@@ -1,6 +1,6 @@
 # Arduino-Final-Project
 This is the final project for my Intro to EE 151 class for my 2022 Winter quarter. 
-The project is relating to security, utilizing the LCD display, battery, and keypad that come with the Arduino MEGA 2560 kit.
+The project is relating to security, utilizing the LCD display, LEDs, and keypad that come with the Arduino MEGA 2560 kit.
 
 <img width="610" alt="Arduino Flowchart" src="https://user-images.githubusercontent.com/117235861/206822107-7b4c3654-b2a9-4ea5-9eb2-7d14ebd0e5c2.png">
 
